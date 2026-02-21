@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_grey">#FF1C1C1E</color>
+    <color name="elevated_grey">#FF2C2C2E</color>
+    <color name="mid_grey">#FF636366</color>
+    <color name="secondary_grey">#FF8E8E93</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="danger">#FFFF453A</color>
+    <color name="success">#FF30D158</color>
+    <color name="warning">#FFFFD60A</color>
+</resources>
